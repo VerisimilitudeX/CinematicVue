@@ -13,6 +13,8 @@
 		4DAFBBA12A4CD61400FF007C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DAFBB9F2A4CD61400FF007C /* Main.storyboard */; };
 		4DAFBBA32A4CD61500FF007C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DAFBBA22A4CD61500FF007C /* Assets.xcassets */; };
 		4DAFBBA62A4CD61500FF007C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DAFBBA42A4CD61500FF007C /* LaunchScreen.storyboard */; };
+		4DAFBBAE2A4CD83600FF007C /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DAFBBAD2A4CD83600FF007C /* main.storyboard */; };
+		4DAFBBB02A4CDABF00FF007C /* IMG_0017.mov in Resources */ = {isa = PBXBuildFile; fileRef = 4DAFBBAF2A4CDABF00FF007C /* IMG_0017.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4DAFBBA22A4CD61500FF007C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DAFBBA52A4CD61500FF007C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DAFBBA72A4CD61500FF007C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DAFBBAD2A4CD83600FF007C /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		4DAFBBAF2A4CDABF00FF007C /* IMG_0017.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = IMG_0017.mov; path = ../../../../../../../Downloads/IMG_0017.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4DAFBBA22A4CD61500FF007C /* Assets.xcassets */,
 				4DAFBBA42A4CD61500FF007C /* LaunchScreen.storyboard */,
 				4DAFBBA72A4CD61500FF007C /* Info.plist */,
+				4DAFBBAD2A4CD83600FF007C /* main.storyboard */,
+				4DAFBBAF2A4CDABF00FF007C /* IMG_0017.mov */,
 			);
 			path = CinematicVue;
 			sourceTree = "<group>";
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DAFBBA62A4CD61500FF007C /* LaunchScreen.storyboard in Resources */,
+				4DAFBBB02A4CDABF00FF007C /* IMG_0017.mov in Resources */,
 				4DAFBBA32A4CD61500FF007C /* Assets.xcassets in Resources */,
 				4DAFBBA12A4CD61400FF007C /* Main.storyboard in Resources */,
+				4DAFBBAE2A4CD83600FF007C /* main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
